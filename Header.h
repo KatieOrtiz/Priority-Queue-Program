@@ -1,6 +1,3 @@
-//Lab 8 ORTIZ, KATIE TH 
-//(Priority Queue)
-
 #include <iostream>
 #include <iomanip>
 #define SIZE 1000
